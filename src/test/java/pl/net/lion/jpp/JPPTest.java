@@ -14,4 +14,13 @@ public class JPPTest {
 
         assertTrue(result);
     }
+
+    @Test
+    public void run10() {
+        JPP instance = new JPP();
+
+        boolean result = instance.run10();
+
+        assertTrue(result);
+    }
 }
