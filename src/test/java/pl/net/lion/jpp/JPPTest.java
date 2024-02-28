@@ -23,4 +23,13 @@ public class JPPTest {
 
         assertTrue(result);
     }
+
+    @Test
+    public void runBranch() {
+        JPP instance = new JPP();
+
+        boolean result = instance.runBranch();
+
+        assertTrue(result);
+    }
 }

@@ -14,4 +14,7 @@ public class JPP {
         return true;
     }
 
+    public boolean runBranch() {
+        return true;
+    }
 }
