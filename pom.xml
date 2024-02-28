@@ -4,7 +4,7 @@
 
     <groupId>pl.net.lion</groupId>
     <artifactId>java-packaging-playground</artifactId>
-    <version>1.0.1-RC4</version>
+    <version>1.0.1-RC5-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
@@ -18,7 +18,7 @@
         <url>https://github.com/maciejlew/java-packaging-playground.git</url>
         <connection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</developerConnection>
-      <tag>v1.0.1-RC4</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
