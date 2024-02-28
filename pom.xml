@@ -18,7 +18,7 @@
         <url>https://github.com/maciejlew/java-packaging-playground.git</url>
         <connection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>v1.0.1-RC4</tag>
   </scm>
 
     <dependencies>
