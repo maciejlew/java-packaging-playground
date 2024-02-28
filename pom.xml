@@ -15,6 +15,8 @@
     </distributionManagement>
 
     <scm>
+        <url>https://github.com/maciejlew/java-packaging-playground.git</url>
+        <connection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/maciejlew/java-packaging-playground.git</developerConnection>
     </scm>
 
