@@ -15,7 +15,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:https://maven.pkg.github.com/maciejlew/java-packaging-playground.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/maciejlew/java-packaging-playground.git</developerConnection>
       <tag>java-packaging-playground-1.0.0-alpha.1+001</tag>
   </scm>
 
